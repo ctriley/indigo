@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: assets/riley-cv.pdf #https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: http://ctriley.github.io/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
