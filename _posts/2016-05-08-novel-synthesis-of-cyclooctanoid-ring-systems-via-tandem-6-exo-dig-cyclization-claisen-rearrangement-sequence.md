@@ -5,8 +5,9 @@ date: '2016-05-08 14:42:58'
 layout: post
 category: project
 author: Elizabeth Stone
-externalLink: false
 hidden: true
+projects: true
+headerImage: true
 ---
 
 Elizabeth Stone
