@@ -17,6 +17,12 @@
         </a>
     {% endif %}
 
+    {% if site.gscholar %}
+        <a class="link" data-title="https://scholar.google.com/citations?user=+{{ site.gscholar }}" href="https://scholar.google.com/citations?user=+{{ site.gscholar }}" target="_blank">
+            <svg class="icon icon-gscholar"><use xlink:href="#icon-gscholar"></use></svg>
+        </a>
+    {% endif %}
+    
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
             <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
