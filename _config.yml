@@ -42,7 +42,7 @@ disqus:
 linkedin: https://www.linkedin.com/in/elizabeth-stone-4a78689a/
 # youtube: myyoutube
 # spotify: myspotify
-# github: mygithub
+ github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -58,7 +58,6 @@ authors:
         bio: PhD Student at Yale studying catalytic reactions with the goal of advancing the field of chemistry from practical, fundamental and interdisciplinary perspectives.
         external-image: false
         picture: assets/images/profile.jpg
-        #twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
