@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/riley-cv.pdf #https://google.com/?q=my+resume
+resume-url: assets/letter.pdf # your CV file here
 
 url: http://ctriley.github.io/indigo
 # your url: http://USERNAME.github.io
